@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # WTFPL license
 
 import xlsxwriter
