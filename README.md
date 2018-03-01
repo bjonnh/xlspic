@@ -27,3 +27,8 @@ To convert a picture, run:
 ```python conv <filename>.jpg <filename>.xlsx```
 
 Careful, the output files look small, but they may take a while to open.
+
+# Authors
+
+Idea: Aaron Lav
+Dev: Bjonnh, b3llydrum
