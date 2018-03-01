@@ -16,10 +16,14 @@ It turns out that someone had that idea already: http://think-maths.co.uk/spread
 
 # Usage
 
-It probably works with any python. You need the packages *imageio* and *xlsxwriter*.
+It probably works with any python.
+
+To install dependencies, run:
+
+$ pip install -r requirements.txt
 
 ```
-python conv.py picture.jpg picture.xlsx
+python conv picture.jpg picture.xlsx
 ```
 
 Careful, the output files look small, but they may take a while to open.
