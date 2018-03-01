@@ -5,7 +5,7 @@ Therefore I share pictures as excel shit.
 
 # History
 
-I was complaining on IRC about someone sending me a screenshot as a word file. 
+I was complaining on IRC about someone sending me a screenshot as a word file.
 Then my friend **Aaron Lav** had a comment that I turned into that project:
 
 <asl2> much rarer to encode screenshots in excel with a cell per pixel
@@ -16,10 +16,14 @@ It turns out that someone had that idea already: http://think-maths.co.uk/spread
 
 # Usage
 
-It probably works with any python. You need the packages *imageio* and *xlsxwriter*.
+It probably works with any python.
 
-```
-python conv.py picture.jpg picture.xlsx
-```
+To install dependencies, run:
+
+```$ pip install -r requirements.txt```
+
+To convert a picture, run:
+
+```python conv <filename>.jpg <filename>.xlsx```
 
 Careful, the output files look small, but they may take a while to open.
