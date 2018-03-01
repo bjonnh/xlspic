@@ -10,6 +10,9 @@ Then my friend **Aaron Lav** had a comment that I turned into that project:
 
 <asl2> much rarer to encode screenshots in excel with a cell per pixel
 
+## Even more history
+
+It turns out that someone had that idea already: http://think-maths.co.uk/spreadsheet   (thanks [sphereinabox](http://sphereinabox.wordpress.com/))
 
 # Usage
 
